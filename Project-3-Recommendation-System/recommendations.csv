@@ -1,4 +1,4 @@
 role,skills,match_score,match_pct
-Machine Learning Engineer,Python Machine Learning TensorFlow Deep Learning Statistics,0.7851281441736087,78.5
-Data Scientist,Python SQL Machine Learning Data Analysis Statistics,0.7605914261176319,76.1
-Data Analyst,SQL Python Data Analysis Excel Statistics,0.3105264509400433,31.1
+Data Scientist,Python SQL Machine Learning Data Analysis Statistics Deep Learning NumPy Pandas Visualization Research,0.6010145252624867,60.1
+Machine Learning Engineer,Python Machine Learning TensorFlow Deep Learning Statistics PyTorch MLOps Feature Engineering Deployment,0.576843188634305,57.7
+AI Research Scientist,Python Machine Learning Deep Learning Statistics Research TensorFlow Mathematics NLP Computer Vision Publishing,0.5565469605441609,55.7
